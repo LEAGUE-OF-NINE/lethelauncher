@@ -1,0 +1,4 @@
+[paths]
+limbus = "./LimbusCompany.exe"
+winhttp = "./winhttp.dll"
+renamed = "./disabled.dll"
